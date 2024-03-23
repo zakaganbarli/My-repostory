@@ -5,4 +5,4 @@ touch (fayl yaratmaq ucundur)
 ls ( yaratdigim fayllari list sekilinde gormek ucundur)
 ls -la 
 ls -lh
-
+Azerbaijan 
