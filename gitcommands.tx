@@ -1,0 +1,7 @@
+git init 
+git add 
+git commit -m "mesage here"
+git branch -M main
+git remote add origin  " github linkin "
+git push origin main
+
